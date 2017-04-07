@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFamilyUI", "MyFamilyUI\MyFamilyUI.csproj", "{E4E03D21-B050-4F9C-8694-962D7249E65D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFamilyWebApi", "MyFamilyWebApi\MyFamilyWebApi.csproj", "{81C5332A-5034-4C4E-88D0-73FA1A172F77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E4E03D21-B050-4F9C-8694-962D7249E65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4E03D21-B050-4F9C-8694-962D7249E65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4E03D21-B050-4F9C-8694-962D7249E65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C5332A-5034-4C4E-88D0-73FA1A172F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C5332A-5034-4C4E-88D0-73FA1A172F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C5332A-5034-4C4E-88D0-73FA1A172F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C5332A-5034-4C4E-88D0-73FA1A172F77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

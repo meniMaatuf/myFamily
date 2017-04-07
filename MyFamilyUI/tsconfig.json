@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "module": "commonjs",
+    "target": "es6",
+     // types option has been previously configured
+    "types": [],
+    // typeRoots option has been previously configured
+    "typeRoots": [
+       // add path to @types
+     "node_modules/@types",
+     ".Scripts/typings"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot",
+    "Scripts/typings"
+  ]
+}
